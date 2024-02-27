@@ -9,6 +9,9 @@ docker run \
 --name Nginx \
 -d \
 -v /mnt/f/ChatGPT/dev-ops/nginx/html:/usr/share/nginx/html \
+-v /mnt/f/ChatGPT/dev-ops/nginx/conf/conf.d/default.conf:/etc/nginx/conf.d/default.conf \
 -v /mnt/f/ChatGPT/dev-ops/nginx/conf/nginx.conf:/etc/nginx/nginx.conf \
 -p 80:80 \
 nginx
+
+
