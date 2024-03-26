@@ -5,7 +5,7 @@ import com.priska.chatgptsdk.domain.chat.ChatCompletionResponse;
 import com.priska.chatgptsdk.domain.qa.QACompletionRequest;
 import com.priska.chatgptsdk.domain.qa.QACompletionResponse;
 
-//绘画接口
+//会话接口
 public interface OpenAiSession {
     /**
      * 文本问答

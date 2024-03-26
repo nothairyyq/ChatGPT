@@ -1,0 +1,17 @@
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\session\defaults\DefaultOpenAiSessionFactory.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\IOpenAiApi.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\common\Constants.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\interceptor\OpenAiInterceptor.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\session\Configuration.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\other\OpenAiResponse.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\qa\QACompletionResponse.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\chat\ChatChoice.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\session\defaults\DefaultOpenAiSession.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\chat\Message.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\session\OpenAiSession.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\chat\ChatCompletionResponse.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\chat\ChatCompletionRequest.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\qa\QAChoice.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\session\OpenAiSessionFactory.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\other\Usage.java
+F:\ChatGPT\chatgpt-sdk\src\main\java\com\priska\chatgptsdk\domain\qa\QACompletionRequest.java
